@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Ingresar</string>
+    <string name="title_active_login">Ingresar</string>
+    <string name="password">Contraseña</string>
+    <string name="new_password">Nueva contraseña</string>
+    <string name="current_password">Contraseña actual</string>
+    <string name="name">Nombre completo</string>
+    <string name="email">Correo electrónico</string>
+    <string name="login">Ingresar</string>
+    <string name="repeat_password">Confirma la contraseña</string>
+    <string name="signup">Regístrate</string>
+    <string name="text_signup">¿No tienes cuenta?</string>
+    <string name="link_signup">Regístrate</string>
+    <string name="all">TODO</string>
+    <string name="user_email">correo@email.com</string>
+    <string name="user_name">Usuario</string>
+    <string name="update_profile">Guardar</string>
+    <string name="delete_account">Eliminar cuenta</string>
+    <string name="change_password">Cambiar contraseña</string>
+    <string name="forget_password">¿olvidaste tu contraseña?</string>
+    <string name="title_check_email">Verificacion de correo electrónico</string>
+    <string name="subtitle_check_email">Para completar su registro. ¡Por favor! verifica su correo electrónico y después de clic en continuar.</string>
+    <string name="continue_check_email">Continuar</string>
+    <string name="title_account_recovery">Recuperación de la cuenta</string>
+    <string name="subtitle_account_recovery">Ingresa tu email para que se te pueda enviar un correo electrónico con los pasos para cambiar tu contraseña.</string>
+    <string name="recovery_account">Enviar</string>
+    <string name="title_update_password">Cambio de contraseña</string>
+    <string name="subtitle_update_password">Por motivos de seguridad para cambiar tu contraseña, primero debes ingresar tu contraseña actual.</string>
+    <string name="title_delete_account">Eliminar cuenta</string>
+    <string name="subtitle_delete_account">Por motivos de seguridad para eliminar tu cuenta por completo, debes de ingresar tu contraseña.</string>
+    <string name="delete">Eliminar</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289328725526",
+    "project_id": "fir-login-fd66a",
+    "storage_bucket": "fir-login-fd66a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289328725526:android:e4db5bde420378c05d7f37",
+        "android_client_info": {
+          "package_name": "com.example.tiendaproyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289328725526-29n7vjdqtlvvgfdrieel7e8cujroens4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFYqMEEQVv93-IDy0Lg4X_87IAG335E5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289328725526-29n7vjdqtlvvgfdrieel7e8cujroens4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
